@@ -10,7 +10,7 @@
     "website": "https://martydev.com",
     "version": "16.0.1.0.1",
     "license": "AGPL-3",
-    "depends": ["website","product_brand", "website_sale","website_sale_product_brand"],
+    "depends": ["mass_mailing", "website","product_brand", "website_sale","website_sale_product_brand"],
     "data": [
         #"security/ir.model.access.csv",
         #"data/website_menu.xml",
